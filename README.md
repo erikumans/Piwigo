@@ -1,6 +1,8 @@
 [![Piwigo](http://piwigo.org/screenshots/logos/piwigo@280.png)](http://piwigo.org)
 ---------
 
+Erik Umans
+
 Piwigo is photo gallery software for the web, built by an active community of users and developers.
 
 Extensions make Piwigo easily customizable. Icing on the cake, Piwigo is free and open source.
